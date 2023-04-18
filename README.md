@@ -22,4 +22,4 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
-![Snake animation](href="https://github.com/JoseAdelmo/")
+![Snake animation](a href="https://github.com/JoseAdelmo/")
