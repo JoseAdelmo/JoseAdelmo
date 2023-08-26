@@ -1,3 +1,7 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+José+Adelmo;I'm+19+years+old;I+am+from+Brazil,+SE;I+am+a+Front-End+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 ### Olá! Meu nome é José Adelmo 👋
 
 - 🔭 Atualmente tenho trabalhado cono Desenvolvedor Front-end Júnior
@@ -5,6 +9,7 @@
 - ⚡ Fato divertido: Gosto de tentar fazer edições no código dos projetos mais interessantes que
      encontro de outros desenvolvedores para também aprender a fazer
 - 📧 Contate-me pelo email: contato.joseadelmo2004@gmail.com
+
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
