@@ -11,8 +11,8 @@
 
 - 🔭 Atualmente tenho trabalhado cono Desenvolvedor Front-end Júnior
 - 🌱 Recentemente tenho me interessado em aprender e praticar Java-Script, TypeScript, Flutter, Dart e React
-- ⚡ Fato divertido: Gosto de tentar fazer edições no código dos projetos mais interessantes que
-     encontro de outros desenvolvedores para também aprender a fazer
+- ⚡ Fato divertido: gosto de tentar fazer edições no código dos projetos mais interessantes que
+     encontro de outros desenvolvedores para também aprender a fazê-los
 - 📧 Contate-me pelo email: contato.joseadelmo2004@gmail.com
 
 
