@@ -11,8 +11,6 @@
 
 - 🔭 Atualmente tenho trabalhado como Desenvolvedor Front-end
 - 🌱 Recentemente tenho me interessado em aprender e praticar Flutter, Dart, GdScript, Java-Script, React e TypeScript 
-- ⚡ Fato divertido: gosto de tentar fazer edições no código dos projetos mais interessantes que
-     encontro de outros desenvolvedores para também aprender a fazê-los
 - 📧 Contate-me pelo email: contato.joseadelmo2004@gmail.com
 
 
