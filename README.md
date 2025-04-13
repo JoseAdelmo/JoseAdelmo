@@ -10,7 +10,7 @@
 ### Olá! Meu nome é José Adelmo 👋
 
 - 🔭 Atualmente tenho trabalhado como Desenvolvedor Front-end
-- 🌱 Tenho me interessado cada vez mais em aprender e praticar Flutter, Dart, GdScript, JavaScript, React e TypeScript 
+- 🌱 Tenho me interessado cada vez mais em aprender e praticar Flutter, Dart, GdScript, JavaScript e React
 - 📧 Contate-me pelo email: contato.joseadelmo2004@gmail.com
 
 
