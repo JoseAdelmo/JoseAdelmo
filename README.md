@@ -1,32 +1,42 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=009&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=009&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+José+Adelmo;I'm+20+years+old;I+am+from+Brazil,+SE;I+am+a+Front-End+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+José+Adelmo;Tenho+20+anos+%F0%9F%92%BC;Sou+Desenvolvedor+Front-End;Seja+bem-vindo!+%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
+</p>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JoseAdelmo&show_icons=true&count_private=true&hide_border=true&title_color=009&icon_color=00bfbf&text_color=c9d1d9&bg_color=000" alt="José Adelmo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAdelmo&layout=compact&hide_border=true&title_color=009&text_color=00bfbf&bg_color=000" />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseAdelmo&show_icons=true&count_private=true&hide_border=true&theme=github_dark&title_color=00bfbf&icon_color=00bfbf" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAdelmo&layout=compact&hide_border=true&theme=github_dark&title_color=00bfbf&text_color=00bfbf" />
 </div>
 
-### Olá! Meu nome é José Adelmo 👋
+---
 
-- 🔭 Atualmente tenho trabalhado como Desenvolvedor Front-end
-- 🌱 Tenho me interessado cada vez mais em aprender e praticar Flutter, Dart, GdScript, JavaScript e React
-- 📧 Contate-me pelo email: contato.joseadelmo2004@gmail.com
+### 👨‍💻 Sobre mim
 
+- 🚀 Atualmente atuando como **Desenvolvedor Front-end**
+- 📱 Interessado em **Flutter, Dart, GDScript, JavaScript e React**
+- 📧 Contato: [contato.joseadelmo2004@gmail.com](mailto:contato.joseadelmo2004@gmail.com)
 
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+---
 
+### 🧰 Tecnologias:
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="40"/>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=009f&height=120&section=footer"/>
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=009f&height=120&section=footer"/>
