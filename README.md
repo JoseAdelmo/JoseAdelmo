@@ -16,7 +16,7 @@
 ### 👨‍💻 Sobre mim
 
 - 🚀 Atualmente atuando como **Desenvolvedor Front-end**
-- 📱 Interessado em **Flutter, Dart, GDScript, JavaScript e React**
+- 📱 Interessado em **FlutterFlow, Flutter, Dart, GDScript, JavaScript e React**
 - 📧 Contato: [contato.joseadelmo2004@gmail.com](mailto:contato.joseadelmo2004@gmail.com)
 
 ---
